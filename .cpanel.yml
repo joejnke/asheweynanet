@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/keenafriquecom/public_html
+    - export DEPLOYPATH=/home/asheweynanet/public_html/asheweynanet_bootstrap
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
