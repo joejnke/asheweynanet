@@ -389,11 +389,11 @@ button:focus {
   width: 36px;
   height: 36px;
   line-height: 36px;
-  color: #fff;
+  color: #000;
   font-size: 14px;
   text-align: center;
   border-radius: 4px;
-  background-color: #61D2B4;
+  background-color: #ec7010;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
@@ -1177,11 +1177,20 @@ button:focus {
 .contact-us h3 {
   font-size: 36px;
   margin-bottom: 45px;
+  color: #ec7010;
 }
 
 .contact-us p span {
-  color: #61D2B4;
+  color: #fff;
   padding-left: 10px;
+}
+
+.contact-us .phone {
+  color: #ec7010;
+}
+
+.contact-us .email {
+  color: #ec7010;
 }
 
 #contact {
@@ -1194,7 +1203,7 @@ button:focus {
   width: 100%;
   margin-bottom: 10px;
   padding: 14px;
-  border-color: #fff;
+  border-color: #ec7010;
   border-radius: 0px;
   color: #fff;
   background: transparent;
@@ -1207,7 +1216,7 @@ button:focus {
 .form-control:focus {
   box-shadow: none;
   color: #fff;
-  border-color: #61D2B4;
+  border-color: #fff;
   background: transparent;
   outline: none;
 }
