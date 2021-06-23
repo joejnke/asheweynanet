@@ -1027,7 +1027,7 @@ button:focus {
   transition: 0.5s;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
   border-radius: 0px;
-  background: #ff6600;
+  /*background: #ff6600;*/
   overflow: hidden;
 }
 
