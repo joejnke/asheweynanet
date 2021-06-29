@@ -674,6 +674,7 @@ button:focus {
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 10px;
+  padding-top: 80px;
 }
 
 .item-boxes:hover {
@@ -1108,6 +1109,10 @@ button:focus {
 /* ==========================================================================
   12. Team Section
    ========================================================================== */
+#team {
+  background: rgba(52, 58, 64, 0.1);
+}
+
 .single-team:hover .team-details {
   opacity: 1;
 }
