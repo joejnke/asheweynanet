@@ -674,7 +674,6 @@ button:focus {
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 10px;
-  padding-top: 80px;
 }
 
 .item-boxes:hover {
@@ -693,8 +692,7 @@ button:focus {
   6. Features Section Style
    ========================================================================== */
 #features {
-  background: url(../img/bg1.jpg) fixed no-repeat;
-  background-size: cover;
+  background: #343a40;
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -1042,7 +1040,7 @@ button:focus {
   font-size: 30px;
   font-weight: 700;
   color: #ff6600;
-  padding: 70px 0px 0px 0px;
+  /*padding: 70px 0px 0px 0px;*/
 
 }
 
@@ -1054,7 +1052,7 @@ button:focus {
 .testimonial-item .testimonial-text p {
   font-size: 14px;
   font-weight: 400;
-  padding: 36px 10px 30px 10px;
+  padding: 36px 10px 10px 10px;
   margin: 0;
   line-height: 30px;
 }
@@ -1109,10 +1107,6 @@ button:focus {
 /* ==========================================================================
   12. Team Section
    ========================================================================== */
-#team {
-  background: rgba(52, 58, 64, 0.1);
-}
-
 .single-team:hover .team-details {
   opacity: 1;
 }
