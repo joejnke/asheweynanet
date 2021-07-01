@@ -432,9 +432,16 @@ button:focus {
   margin-bottom: 25px;
 }
 
+#hero-area .contents h2 {
+  color: #ff6600;
+  font-size: 48px;
+  font-weight: 800;
+  margin-bottom: 25px;
+}
+
 #hero-area .contents h3 {
   color: #000000;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 510;
   font-style: italic;
   margin-bottom: 25px;
