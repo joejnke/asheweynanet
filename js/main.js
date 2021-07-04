@@ -60,6 +60,7 @@
    MixitUp
    ========================================================================== */
   $('#portfolio').mixItUp();
+  $('#gallery').mixItUp();
 
 /* 
    Touch Owl Carousel
