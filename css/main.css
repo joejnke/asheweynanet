@@ -842,6 +842,13 @@ button:focus {
   margin: 0px;
 }
 
+#portfolios .portfolio-item .shot-item img {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 #portfolio .mix {
   display: none;
 }
@@ -884,10 +891,7 @@ button:focus {
 }
 
 .shot-item img {
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  width: 100%;
 }
 
 .shot-item .overlay {
